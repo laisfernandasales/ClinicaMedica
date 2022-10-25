@@ -1,0 +1,52 @@
+
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: cursive;
+    background-color:rgb(173, 239, 241); /* largura*/
+    margin: auto;
+    padding: 0;
+    padding : 10px 10px 5px;
+}
+
+ul {
+list-style: none;
+padding: 0;
+background-color: black;
+text-align: right;
+}
+
+ul li{
+    display: inline;
+}
+
+ul li p{
+    color: aliceblue;
+    display:inline;
+    padding: 12px;
+    text-decoration: none;
+    text-decoration: underline;
+}
+ul li p:hover{
+    color: rgb(132, 185, 168);
+}
+
+.conteudo {
+    background-color:rgb(173, 239, 241);
+    margin-left: -100px;
+    margin-right: -98px;
+}
+h2 {
+    text-decoration:underline;
+}
+.imagem {
+    width: 100%;
+    margin: auto;
+    display: block;
+    text-align: center;
+    background-color: aliceblue;
+  }
